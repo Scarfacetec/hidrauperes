@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.hidrauperes.com.br/sitemap.xml
+Sitemap: https://hidrauperes.pages.dev/sitemap.xml
+
