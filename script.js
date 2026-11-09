@@ -1,6 +1,6 @@
 'use strict';
 // Número informado pelo responsável, incluindo DDI e DDD.
-const WHATSAPP = '559691415725';
+const WHATSAPP = '5519996997189';
 const menuButton = document.querySelector('.menu-toggle');
 const navigation = document.querySelector('#navigation');
 function closeMenu() { navigation.classList.remove('open'); menuButton.setAttribute('aria-expanded', 'false'); menuButton.setAttribute('aria-label', 'Abrir menu'); }

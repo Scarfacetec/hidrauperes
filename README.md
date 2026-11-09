@@ -27,7 +27,7 @@ Documentação oficial: https://developers.cloudflare.com/pages/framework-guides
 
 Abra index.html para visualizar localmente. Não há instalação ou compilação. O formulário prepara uma mensagem no WhatsApp; o visitante revisa e envia no aplicativo. O site não armazena os dados do formulário.
 
-WhatsApp informado: (96) 9141-5725. Configurado com DDI 55, exatamente como fornecido. Para alterar, atualize WHATSAPP em script.js e os links/textos do telefone em index.html.
+WhatsApp informado: (19) 99699-7189. Configurado com DDI 55, exatamente como fornecido. Para alterar, atualize WHATSAPP em script.js e os links/textos do telefone em index.html.
 
 Fotos de serviços fornecidas pelo responsável. Personagem adaptado às cores da marca. Nenhum endereço, horário, depoimento ou tempo de mercado foi inventado.
 
